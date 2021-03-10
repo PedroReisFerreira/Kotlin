@@ -1,7 +1,5 @@
 package main
 
-
-
 fun main(){
 
 //Entradas
@@ -32,13 +30,9 @@ fun main(){
     println("O resultado é:")
     println("$Res")
 
-
-
 //Layout de exibição para o usuário
 
-
     for(i in 0..100){println("\n")}
-
 
     println(" ________________________________________")
     println("|  ____________________________________  |")
